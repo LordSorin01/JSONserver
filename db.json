@@ -26,12 +26,12 @@
     },
     {
       "id": 4,
-      "title": "Post 4",
-      "desc": "Lorem ipsum..",
-      "brand": "mike",
-      "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
-    },
+      "title": "Samsung Galaxy s10",
+      "desc": "la nuova frontiera degli smartphone",
+      "brand": "Samsung",
+      "price": "a partire da da € 939",
+      "img": "https://t4m7p5j6.stackpathcdn.com/wp-content/uploads/2018/11/samsung-galaxy-s10-2-2-700x400.jpg"
+  
     {
       "id": 5,
       "title": "Post 5",
@@ -100,11 +100,11 @@
     },
     {
       "id": 4,
-      "title": "Post 4",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "mike",
-      "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
+      "title": "Samsung Galaxy s10",
+      "desc": "Ci sono stati enormi passi in avanti con il software Samsung. Abbiamo oggi una One UI decisamente più “robusta” e gradevole rispetto al passato. L’interfaccia ridisegnata è basata su Android 9.0 Pie e abbiamo le patch di febbraio 2019 al momento della recensione. Fra le funzioni più interessanti abbiamo il supporto a Bixby (con il suo tasto dedicato e le nuove routine), il benessere digitale (mutuato da Android Pie), le app che è possibile aprire in finestre popup e la modalità ad una mano. A queste si aggiunge il supporto a Game Launcher/Tool, la possibilità di sdoppiare gli account di alcune applicazioni di messaggistica e i temi. Non dimentichiamoci infine del supporto desktop di DeX e la modalità in realtà virtuale con Gear VR.",
+      "brand": "Samsung",
+      "price": "a partire da da € 939",
+      "img": "https://t4m7p5j6.stackpathcdn.com/wp-content/uploads/2018/11/samsung-galaxy-s10-2-2-700x400.jpg"
     },
     {
       "id": 5,
