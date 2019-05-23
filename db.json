@@ -32,14 +32,13 @@
       "price": "a partire da da € 939",
       "img": "https://t4m7p5j6.stackpathcdn.com/wp-content/uploads/2018/11/samsung-galaxy-s10-2-2-700x400.jpg"
     },
-  
     {
       "id": 5,
-      "title": "Post 5",
-      "desc": "Lorem ipsum..",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "title": "Huawei watch 2",
+      "desc": "Huawei Watch è uno degli smartwatch Android Wear migliori sul mercato",
+      "brand": "Huawei",
+      "price": "a partire da € 149.99",
+      "img": "https://t4m7p5j6.stackpathcdn.com/wp-content/uploads/2018/07/huawei-watch-2-hands-on-mwc-2017-aa-15-of-16-700x400.jpg"
     },
     {
       "id": 6,
@@ -48,30 +47,6 @@
       "brand": "iceice",
       "price": "16$",
       "img": "https://via.placeholder.com/700x400"
-    },
-    {
-      "id": 7,
-      "title": "Post 7",
-      "desc": "Lorem ipsum..",
-      "brand": "gang",
-      "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
-    },
-    {
-      "id": 8,
-      "title": "Post 8",
-      "desc": "Lorem ipsum..",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
-    },
-    {
-      "id": 9,
-      "title": "Post 9",
-      "desc": "Lorem ipsum..",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
     }
   ],
   "singleitems": [
@@ -109,11 +84,11 @@
     },
     {
       "id": 5,
-      "title": "Post 5",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "title": "Huawei watch 2",
+      "desc": "Watch 2 è più grande del precedente modello, ma allo stesso tempo ha il display più piccolo. Questo è successo perché Watch 2 ha un design sportivo che lo rende del tutto nuovo agli occhi degli utenti. È sempre realizzato in metallo ma ora ha un’importante ghiera attorno allo schermo che farà sembrare Watch 2 più un orologio vero di quanto non fosse l’altro modello, ma allo stesso tempo gli fa perdere un po’ della purezza estetica dell’altra variante. Arriverà comunque a breve anche una variante Classic per chi preferisce lo stile più pulito di Watch.Il cinturino in plastica in dotazione prosegue il profilo dell’orologio, ma potrete comunque cambiarlo con uno diverso a piacimento. Quello fornito non è dei più eleganti, ma comunque non da fastidio al polso ed è anzi comodo nell’utilizzo quotidiano. Watch 2 è poi dotato di due tasti fisici sul lato destro, in modo da poter richiamare rapidamente l’app che più preferite con un solo click. Sempre presente la resistenza ad acqua e polvere secondo lo standard IP68.",
+      "brand": "Huawei",
+      "price": "a partire da € 149.99",
+      "img": "https://t4m7p5j6.stackpathcdn.com/wp-content/uploads/2018/07/huawei-watch-2-hands-on-mwc-2017-aa-15-of-16-700x400.jpg"
     },
     {
       "id": 6,
@@ -122,32 +97,7 @@
       "brand": "iceice",
       "price": "16$",
       "img": "https://via.placeholder.com/700x400"
-    },
-    {
-      "id": 7,
-      "title": "Post 7",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "gang",
-      "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
-    },
-    {
-      "id": 8,
-      "title": "Post 8",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
-    },
-    {
-      "id": 9,
-      "title": "Post 9",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
     }
-
   ],
   "herobanner": [
     {
