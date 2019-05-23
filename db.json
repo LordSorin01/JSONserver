@@ -2,11 +2,11 @@
   "items": [
     {
       "id": 1,
-      "title": "Post 1",
-      "desc": "Lorem ipsum..",
-      "brand": "nike",
-      "price": "12$",
-      "img": "http://lorempixel.com/g/700/400/"
+      "title": "Iphone Xr",
+      "desc": "",
+      "brand": "Apple",
+      "price": "A partire da € 639",
+      "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xr/iphone-xr-black-select-201809?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1551226038992"
     },
     {
       "id": 2,
@@ -182,22 +182,14 @@
   ],
   "brands": [
     {
-      "brand": "nike"
+      "brand": "Apple"
     },
     {
-      "brand": "adidas"
+      "brand": "Huawei"
     },
     {
-      "brand": "iceice"
-    },
-    {
-      "brand": "mike"
-    },
-    {
-      "brand": "daje"
-    },
-    {
-      "brand": "gang"
+      "brand": "Samsung"
     }
+
   ]
 }
