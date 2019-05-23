@@ -42,13 +42,13 @@
     },
     {
       "id": 6,
-      "title": "Post 6",
-      "desc": "Lorem ipsum..",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "title": "Samsung gear s3",
+      "desc": "elegante, bello, ma non per tutti",
+      "brand": "Samsung",
+      "price": "a partire da € 159.99",
+      "img": "https://t4m7p5j6.stackpathcdn.com/wp-content/uploads/2018/07/dc-Cover-3cs4qpaviab2rjmuip4soc6m10-20170111100327.Medi_-700x400.jpeg"
     }
-  ],
+  ], 
   "singleitems": [
     {
        "id": 1,
@@ -91,12 +91,12 @@
       "img": "https://t4m7p5j6.stackpathcdn.com/wp-content/uploads/2018/07/huawei-watch-2-hands-on-mwc-2017-aa-15-of-16-700x400.jpg"
     },
     {
-      "id": 6,
-      "title": "Post 6",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+     "id": 6,
+      "title": "Samsung gear s3",
+      "desc": "Su questo Gear S3 troviamo a bordo Tizen nella versione 2.3.2. Questo sistema operativo è sicuramente uno dei migliori presenti su piattaforma indossabile. Nasce per un utilizzo su schermo circolare e per supportare non solo un pannello touch ma anche una ghiera girevole. Alla sinistra del quadrante troverete dei widget per accedere rapidamente alle vostre funzioni principali, mentre a sinistra abbiamo invece le ultime notifiche ricevute. È possibile leggerle per intero e in vari casi anche rispondere, scegliendo fra gli input la voce, un tastierino o delle risposte predefinite.Scorrendo verso il basso accediamo ad una tendina con delle funzioni rapide, mentre premendo il tasto fisico in basso accediamo ad una lunga lista di app. Altre sono installabili (anche direttamente dell’orologio), ma non sono poi molte rispetto a quelle già presenti. Tre queste app troviamo quella per gli SMS, per le telefonate (che vengono fatte in vivavoce o Bluetooth, sfruttando comunque la scheda del vostro telefono), il meteo, un’app per i memo, un altimetro, il calendario, la sveglia, le notizie di Flipboard e anche una galleria (le foto le dovrete caricare dal telefono). C’è infine anche un lettore musicale standalone (dovrete anche qui trasferire gli mp3 dal telefono) e S Voice, anche se il riconoscimento vocale non è dei più rapidi.",
+      "brand": "Samsung",
+      "price": "a partire da € 159.99",
+      "img": "https://t4m7p5j6.stackpathcdn.com/wp-content/uploads/2018/07/dc-Cover-3cs4qpaviab2rjmuip4soc6m10-20170111100327.Medi_-700x400.jpeg"
     }
   ],
   "herobanner": [
