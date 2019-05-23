@@ -32,7 +32,7 @@
             "brand": "nike",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
-        },
+        }
         
     ],
     "singleitem": [
@@ -67,6 +67,6 @@
             "brand": "nike",
             "price": "12$",
             "img":"https://lorempixel.com/g/700/400/"
-        },
+        }
     ]
 }
