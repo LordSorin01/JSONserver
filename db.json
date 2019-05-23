@@ -7,7 +7,33 @@
             "brand": "nike",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
-        }
+        },
+        
+         {
+            "id": 2,
+            "title": "post 1",
+            "desc": "lorem ipsun",
+            "brand": "nike",
+            "price": "12$",
+            "img": "https://lorempixel.com/g/700/400/"
+        },
+                 {
+            "id": 3,
+            "title": "post 1",
+            "desc": "lorem ipsun",
+            "brand": "nike",
+            "price": "12$",
+            "img": "https://lorempixel.com/g/700/400/"
+        },
+                 {
+            "id": 4,
+            "title": "post 1",
+            "desc": "lorem ipsun",
+            "brand": "nike",
+            "price": "12$",
+            "img": "https://lorempixel.com/g/700/400/"
+        },
+        
     ],
     "singleitem": [
         {
@@ -17,6 +43,30 @@
             "brand": "nike",
             "price": "12$",
             "img":"https://lorempixel.com/g/700/400/"
-        }
+        },
+                {
+            "id": 2,
+            "title": "post 1",
+            "desc": "proteine in polvere",
+            "brand": "nike",
+            "price": "12$",
+            "img":"https://lorempixel.com/g/700/400/"
+        },
+                {
+            "id": 3,
+            "title": "post 1",
+            "desc": "proteine in polvere",
+            "brand": "nike",
+            "price": "12$",
+            "img":"https://lorempixel.com/g/700/400/"
+        },
+                {
+            "id": 4,
+            "title": "post 1",
+            "desc": "proteine in polvere",
+            "brand": "nike",
+            "price": "12$",
+            "img":"https://lorempixel.com/g/700/400/"
+        },
     ]
 }
