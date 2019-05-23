@@ -11,18 +11,18 @@
     {
       "id": 2,
       "title": "Huawei P30",
-      "desc": "Recensione Huawei P30: nella botte piccola c'è il vino buono",
+      "desc": "nella botte piccola c'è il vino buono",
       "brand": "Huawei",
       "price": "A partire da € 516",
       "img": "https://t4m7p5j6.stackpathcdn.com/wp-content/uploads/2019/04/huawei-p30-lite-ph-1-700x400.jpg"
     },
     {
       "id": 3,
-      "title": "Post 3",
-      "desc": "Lorem ipsum ",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "title": "AirPods",
+      "desc": "costose, comode e con un'ottima autonomia",
+      "brand": "Apple",
+      "price": "A partire da € 159",
+      "img": "https://i2.wp.com/www.tecnoandroid.it/wp-content/uploads/2019/03/airpods-2-nuovo-lancio-fine-marzo-forse-tonino.jpg?w=800"
     },
     {
       "id": 4,
@@ -91,12 +91,12 @@
       "img": "https://t4m7p5j6.stackpathcdn.com/wp-content/uploads/2019/04/huawei-p30-lite-ph-1-700x400.jpg"
     },
     {
-      "id": 3,
-      "title": "Post 3",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+     "id": 3,
+      "title": "AirPods",
+      "desc": "Le AirPods sono comode da usare, anche per periodi prolungati, e sono anche molto stabili a dispetto di quanto si credeva, anche correndo, saltando, facendo flessioni in palestra. Ovviamente è anche possibile utilizzarne solo una. La qualità audio è simile a quella delle EarPods anche se ho notato una maggiore corposità del suono, più ricco di bassi, ed un volume leggermente più elevato.",
+      "brand": "Apple",
+      "price": "A partire da € 159",
+      "img": "https://i2.wp.com/www.tecnoandroid.it/wp-content/uploads/2019/03/airpods-2-nuovo-lancio-fine-marzo-forse-tonino.jpg?w=800"
     },
     {
       "id": 4,
